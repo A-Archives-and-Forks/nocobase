@@ -11,7 +11,7 @@
     "@nocobase/resourcer": "0.14.0-alpha.7",
     "@nocobase/utils": "0.14.0-alpha.7",
     "@types/jsonwebtoken": "^8.5.8",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^9.0.2"
   },
   "repository": {
     "type": "git",
