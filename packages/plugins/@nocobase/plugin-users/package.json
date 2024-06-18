@@ -9,7 +9,7 @@
   "main": "./dist/server/index.js",
   "devDependencies": {
     "@types/jsonwebtoken": "^8.5.8",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^9.0.2"
   },
   "peerDependencies": {
     "@nocobase/actions": "0.x",
